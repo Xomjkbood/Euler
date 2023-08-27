@@ -1,5 +1,4 @@
-num1 = 0
-num2 = 2520
+num1, num2 = 0, 2520
 while num1 != 20:
     num1 = 0
     num2 += 2520
