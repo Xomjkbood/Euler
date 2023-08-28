@@ -1,5 +1,4 @@
-list = [2]
-a = 3
+list, a = [2], 3
 while len(list) < 10001:
     b = 0
     for i in range (0, len(list) - 1):
